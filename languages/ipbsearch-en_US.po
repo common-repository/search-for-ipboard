@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IP.Board Search\n"
+"POT-Creation-Date: 2016-06-11 01:33+0300\n"
+"PO-Revision-Date: 2016-06-13 17:59+0300\n"
+"Last-Translator: The Krotek <support@thekrotek.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "heading"
+msgstr "IP.Board Search"
+
+msgid "heading_settings"
+msgstr "IP.Board Search settings"
+
+msgid "heading_database"
+msgstr "Database Settings"
+
+msgid "note_database"
+msgstr "Enter your IP.Board database parameters in fields below. You can find them in config_global.php file in your forum root folder."
+
+msgid "dbname_title"
+msgstr "Database name"
+
+msgid "dbname_hint"
+msgstr "Your IP.Board database name."
+
+msgid "dbhost_title"
+msgstr "Database host"
+
+msgid "dbhost_hint"
+msgstr "Your IP.Board database host ('localhost' in most cases)."
+
+msgid "dbusername_title"
+msgstr "Database username"
+
+msgid "dbusername_hint"
+msgstr "Your IP.Board database username."
+
+msgid "dbpassword_title"
+msgstr "Database password"
+
+msgid "dbpassword_hint"
+msgstr "Your IP.Board database password."
+
+msgid "dbprefix_title"
+msgstr "Database prefix"
+
+msgid "dbprefix_hint"
+msgstr "Your IP.Board database prefix."
+
+msgid "url_title"
+msgstr "Forum URL"
+
+msgid "url_hint"
+msgstr "Full URL to your forum (e.g: http://mysite.com/forum)."
+
+msgid "heading_search"
+msgstr "Search Params"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "error_params"
+msgstr "Some of the required database parameters are empty."
+
+msgid "error_database"
+msgstr "Can't connect to database. Check your settings."
+
+msgid "error_forums"
+msgstr "No forums found. Create some first."
+
+msgid "forum"
+msgstr "Forum"
+
+msgid "footnote"
+msgstr "&copy; 2011-%s Powered by <a target='_blank' href='https://thekrotek.com' title='Discover the truth!'>The Krotek</a>."

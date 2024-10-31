@@ -1,0 +1,55 @@
+
+.ipbsearch .form-table th
+{
+	padding: 10px 10px 10px 0;
+}
+
+.ipbsearch .form-table td
+{
+	padding: 5px 10px;
+}
+
+.ipbsearch .option-hint
+{
+    float: right;
+    font-size: 18px;
+    line-height: 1.2;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.ipbsearch .upload-file span
+{
+	color: #82878c;
+	line-height: 26px;
+	margin-right: 5px;
+}
+
+.ipbsearch .uploaded-image
+{
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	height: 26px;
+	width: auto;
+}
+
+.ipbsearch .radio-option
+{
+    margin-right: 5px;
+}
+
+.ipbsearch ul.categorychecklist
+{
+    padding: 5px;
+    margin: 0;
+    background: #ffffff;
+    height: 68px;
+    width: 25em;
+    border: 1px solid #dddddd;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07) inset;
+}
+
+.ipbsearch .footnote
+{
+    font-style: italic;
+}
